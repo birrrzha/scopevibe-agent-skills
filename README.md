@@ -5,14 +5,14 @@ Install once — then control ScopeVibe from any AI coding agent.
 ## Quick install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_ORG/agent-skills/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/birrrzha/scopevibe-agent-skills/main/install.sh | bash
 ```
 
 Or clone and run locally:
 
 ```bash
-git clone https://github.com/YOUR_ORG/agent-skills
-bash agent-skills/install.sh
+git clone https://github.com/birrrzha/scopevibe-agent-skills
+bash scopevibe-agent-skills/install.sh
 ```
 
 The installer:
@@ -23,7 +23,7 @@ The installer:
 ## Claude Code (plugin marketplace)
 
 ```
-/plugin marketplace add YOUR_ORG/agent-skills
+/plugin marketplace add birrrzha/scopevibe-agent-skills
 /plugin install scopevibe@scopevibe
 ```
 
