@@ -1,3 +1,8 @@
+---
+name: scopevibe
+description: Design canvas integration — create and edit .pen files directly from your AI coding agent
+---
+
 # ScopeVibe Design Agent
 
 ScopeVibe is a design canvas that works with `.pen` files. You have direct MCP access to the live canvas.
