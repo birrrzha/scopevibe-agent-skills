@@ -1,0 +1,12 @@
+{
+  "name": "scopevibe",
+  "displayName": "ScopeVibe",
+  "description": "Design canvas integration — create and edit .pen files directly from your AI coding agent",
+  "version": "1.0.0",
+  "author": {
+    "name": "ScopeVibe"
+  },
+  "categories": ["design", "ui"],
+  "capabilities": ["Interactive", "Read", "Write"],
+  "skills": "../skills"
+}
